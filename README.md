@@ -63,8 +63,7 @@ Before starting, ensure the following are installed:
    ```xml
    <connectionStrings>
 	<add name="ConnectionString" connectionString="Data Source=DESKTOP-RCFGB52; Initial Catalog=studentsystem; Integrated Security=True;" providerName="System.Data.SqlClient"/>
-</connectionStrings>
-   ```
+   </connectionStrings>```
    
 # Instructions for Configuration and Running  
 
