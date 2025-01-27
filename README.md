@@ -66,7 +66,8 @@ Before starting, ensure the following are installed:
             connectionString="Data Source=DESKTOP-RCFGB52; Initial Catalog=studentsystem; Integrated Security=True;" 
             providerName="System.Data.SqlClient"/>
    </connectionStrings>```
-   # Instructions for Configuration and Running  
+   
+# Instructions for Configuration and Running  
 
 ### Replace  
 - **DESKTOP-RCFGB52** with your SQL Server data source.  
